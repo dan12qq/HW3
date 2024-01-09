@@ -20,14 +20,14 @@ margin: 0 auto;}
     margin: 0 auto;
 
 }
-.page1{ background-image: url("../pattern.png");
+.page1{ background-image: url("pattern.png");
 background-size: cover;
 }
 img {
     border-radius: 50%;
     max-width: 700px;
   }
-  .page{ background-image: url("../pattern.png");
+  .page{ background-image: url("pattern.png");
     background-size: cover;
     }
     .pag{height: 120vh;
